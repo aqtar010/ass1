@@ -5,7 +5,7 @@ app.get('/', function (req, res) {
     res.send('Hello From Aqtar parveezzz');
 });
 
-app.get('/will', function (req, res) {
+app.get('/AfterWebhook', function (req, res) {
     res.send('Good Day');
 });
 app.get('/ready', function (req, res) {
